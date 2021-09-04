@@ -4,7 +4,7 @@
 
 ## Домашние задания
 
-* [Задание 1.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/WS1-intro.ipynb) Дедлайн: 11.09.2021 02:00
+* [Задание 1.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW1-palindrome.ipynb) Дедлайн: 11.09.2021 02:00
 
 ## Формы контроля 
 
