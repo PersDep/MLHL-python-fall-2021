@@ -8,6 +8,7 @@
 
 * [Задание 1.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW1-palindrome.ipynb) Дедлайн: 11.09.2021 02:00
 * [Задание 2.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW2-collections.ipynb) Дедлайн: 20.09.2021 01:00
+* [Задание 3.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW3-OOP-funcs.ipynb) Дедлайн: 25.09.2021 14:00
 
 ## Формы контроля 
 
