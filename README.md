@@ -9,13 +9,14 @@
 * [Задание 1.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW1-palindrome.ipynb) Дедлайн: 11.09.2021 02:00
 * [Задание 2.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW2-collections.ipynb) Дедлайн: 20.09.2021 01:00
 * [Задание 3.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW3-OOP-funcs.ipynb) Дедлайн: 25.09.2021 14:00
+* [Задание 4.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW4-OOP+.ipynb) Дедлайн: 02.10.2021 14:00
 
 ## Формы контроля 
 
 * ДЗ-1 – Решение задач на платформе coursera
 * ДЗ-2 – Решение авторских задач (см. раздел Домашние задания выше)
-* ДЗ-3 – Написание бота для VK (4 неделя)
-* ДЗ-4 – Бонусное задание (продолжение проекта, элементы визуализации данных и анализа данных) (6 неделя)
+* ДЗ-3 – [Написание бота для VK/Telegram/... (4 неделя +) ](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/Project.ipynb)
+* ДЗ-4 – Бонусное задание (продолжение проекта, элементы визуализации данных и анализа данных) (6 неделя +)
 
 ## Формула оценки
 
