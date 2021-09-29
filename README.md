@@ -49,6 +49,6 @@
 * Coursera (ну вдруг): https://www.coursera.org/learn/python-osnovy-programmirovaniya
 * (Для знакомства) Cython (не путать с CPython): https://ru.wikipedia.org/wiki/Cython
 * (Для знакомства) в частности Numba: http://numba.pydata.org/
-
+* WTF PYTHON: https://github.com/satwikkansal/wtfpython
 
 
