@@ -51,5 +51,5 @@
 * (Для знакомства) в частности Numba: http://numba.pydata.org/
 * Modules & namespaces: https://realpython.com/python-import/#using-importlib
 * HTTP request & responce playground:https://httpbin.org/
-
-
+* Itertools: https://docs.python.org/3/library/itertools.html
+* Exceptions: https://docs.python.org/3/library/exceptions.html
