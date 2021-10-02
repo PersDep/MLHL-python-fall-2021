@@ -49,6 +49,7 @@
 * Coursera (ну вдруг): https://www.coursera.org/learn/python-osnovy-programmirovaniya
 * (Для знакомства) Cython (не путать с CPython): https://ru.wikipedia.org/wiki/Cython
 * (Для знакомства) в частности Numba: http://numba.pydata.org/
-* WTF PYTHON: https://github.com/satwikkansal/wtfpython
+* Modules & namespaces: https://realpython.com/python-import/#using-importlib
+* HTTP request & responce playground:https://httpbin.org/
 
 
