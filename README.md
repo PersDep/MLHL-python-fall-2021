@@ -54,3 +54,6 @@
 * HTTP request & responce playground: https://httpbin.org/
 * Itertools: https://docs.python.org/3/library/itertools.html
 * Exceptions: https://docs.python.org/3/library/exceptions.html
+
+## Credits:
+* http://uneex.org/
