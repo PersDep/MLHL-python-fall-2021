@@ -54,6 +54,10 @@
 * HTTP request & responce playground: https://httpbin.org/
 * Itertools: https://docs.python.org/3/library/itertools.html
 * Exceptions: https://docs.python.org/3/library/exceptions.html
+* Built-ins: https://docs.python.org/3/library/functions.html
+* Functools: https://docs.python.org/3/library/functools.html
+* Using dask for progressive data processing: https://dask.org/ https://docs.dask.org/en/stable/dataframe.html https://examples.dask.org/dataframe.html
+* Nice small article on dask: https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915
 
 ## Credits:
 * http://uneex.org/
