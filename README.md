@@ -11,6 +11,11 @@
 * [Задание 3.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW3-OOP-funcs.ipynb) Дедлайн: 25.09.2021 14:00
 * [Задание 4.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW4-OOP+.ipynb) Дедлайн: 02.10.2021 14:00
 * [Задание 5.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW5-generators-iterators.ipynb) Дедлайн: 09.10.2021 14:00
+* [Задание 6.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/HW6-collections-OOP-pandas.ipynb) Дедлайн: 16.10.2021 14:00
+
+## Референсные решения домашних заданий
+
+* [Задания 2-5.](https://github.com/PersDep/MLHL-python-fall-2021/blob/main/homeworks-references.ipynb)
 
 ## Формы контроля 
 
