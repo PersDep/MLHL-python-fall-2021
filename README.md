@@ -63,6 +63,7 @@
 * Functools: https://docs.python.org/3/library/functools.html
 * Using dask for progressive data processing: https://dask.org/ https://docs.dask.org/en/stable/dataframe.html https://examples.dask.org/dataframe.html
 * Nice small article on dask: https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915
+* gevent: http://sdiehl.github.io/gevent-tutorial/
 
 ## Credits:
 * http://uneex.org/
